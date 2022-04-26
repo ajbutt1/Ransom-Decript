@@ -25,7 +25,7 @@ namespace DecrypterPOC
         private const bool DECRYPT_DOCUMENTS = true;
         private const bool DECRYPT_PICTURES = true;
         private const string ENCRYPTED_FILE_EXTENSION = ".jcrypt";
-        private const string ENCRYPT_PASSWORD = "Password1";
+        private const string ENCRYPT_PASSWORD = "Aj";
 
         // ----------------------------- END -------------------------------- //
 
